@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đỗ Quang Khải</h1>
 <h3 align="center">A passionate Frontend developer from VietNam</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangkhai-dev" alt="quangkhai-dev" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **React with TS**
