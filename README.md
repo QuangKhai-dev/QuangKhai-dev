@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangkhai-dev&show_icons=true&locale=en" alt="quangkhai-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangkhai-dev&" alt="quangkhai-dev" /></p>
-<p> <a href="https://app.daily.dev/quangkhaidev"><img src="https://api.daily.dev/devcards/bfeec04e04514800871fcacce13e12a9.png?r=pak" width="400" alt="QuangKhai's Dev Card"/></a></p>
+<p> <a href="https://app.daily.dev/quangkhaidev"><img src="https://api.daily.dev/devcards/bfeec04e04514800871fcacce13e12a9.png?r=pak" width="200" alt="QuangKhai's Dev Card"/></a></p>
