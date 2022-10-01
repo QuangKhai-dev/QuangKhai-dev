@@ -107,4 +107,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangkhai-dev&" alt="quangkhai-dev" /></p> -->
 
-<img align="right" alt="coding" width="100%" src=""/>
+<img align="right" alt="coding" width="100%" src="https://drive.google.com/file/d/1m1su1RaKwnElqva90jiR5uaCXaqFzsWW/view?usp=sharing"/>
