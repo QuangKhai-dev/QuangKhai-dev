@@ -107,4 +107,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangkhai-dev&" alt="quangkhai-dev" /></p> -->
 
-<img align="right" alt="coding" width="100%" src="https://drive.google.com/file/d/1m1su1RaKwnElqva90jiR5uaCXaqFzsWW/view?usp=sharing"/>
+<img align="right" alt="coding" width="100%" src="[https://drive.google.com/file/d/1m1su1RaKwnElqva90jiR5uaCXaqFzsWW/view?usp=sharing](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=2000&t=st=1664658276~exp=1664658876~hmac=4c8bf452ca2bdcc79b81514a2771a04c7c3933bf4c57319c13cde5dee753b71e)"/>
