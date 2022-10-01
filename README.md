@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đỗ Quang Khải</h1>
 <h3 align="center">A passionate Frontend developer from VietNam</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **React with TS**
@@ -101,8 +101,10 @@
   </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangkhai-dev&show_icons=true&locale=en&layout=compact" alt="quangkhai-dev" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangkhai-dev&show_icons=true&locale=en&layout=compact" alt="quangkhai-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangkhai-dev&show_icons=true&locale=en" alt="quangkhai-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangkhai-dev&" alt="quangkhai-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quangkhai-dev&" alt="quangkhai-dev" /></p> -->
+
+<img align="right" alt="coding" width="100%" src=""/>
